@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raghvendra-Verma/Image-Viewer/static/css/main.05b8d8a9.css",
+    "main.js": "/Raghvendra-Verma/Image-Viewer/static/js/main.40fda591.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Raghvendra-Verma/Image-Viewer/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Raghvendra-Verma/Image-Viewer/index.html",
+    "main.05b8d8a9.css.map": "/Raghvendra-Verma/Image-Viewer/static/css/main.05b8d8a9.css.map",
+    "main.40fda591.js.map": "/Raghvendra-Verma/Image-Viewer/static/js/main.40fda591.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Raghvendra-Verma/Image-Viewer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b8d8a9.css",
+    "static/js/main.40fda591.js"
+  ]
+}
